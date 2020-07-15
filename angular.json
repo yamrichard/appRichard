@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "appRichard"
+    }
+  },
+  "defaultProject": "appRichard",
+  "cli": {
+    "analytics": false
+  }
 }
